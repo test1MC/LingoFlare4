@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SourceSourceControlBound="true" SourceSourceControlProviderType="Microsoft Team Foundation Server" SourceSourceControlDatabase="http://support:8080/tfs/DefaultCollection" SourceSourceControlDatabaseRoot="$/Test/LingoProject16" SourceProjectGuid="db91edc0-889c-4825-a7ec-4f250986555d" SourceControlBound="true" SourceControlDatabase="C:\Users\dspencer\Documents\My Translated Projects\LingoGit-58.liprjf\.git" SourceControlProviderType="Git" ProjectGuid="c71eecf7-33e4-4129-b993-39e2e267b1ab" SourceControlDatabaseRoot="C:\Users\dspencer\Documents\My Translated Projects\LingoGit-58.liprjf">
     <ProjectFile Source="Target/LingoProject16.flprj" Target="Target/LingoProject16.flprj" />
+    <TMConnection Connection="LingoLocal1.db" ReadOnly="false" Type="StandAlone" />
 </LingoProject>
